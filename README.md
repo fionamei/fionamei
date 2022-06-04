@@ -8,11 +8,21 @@ I am an avid learner who has a passion for
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I can play "The Lion Sleeps Tonight" on the guitar 
 
-### My Github Stats
+
+<details>
+ <summary>My Github stats!</summary>
+ 
+  ![](./profile-3d-contrib/profile-season-animate.svg)
+  
+</details>
+
+
+<!--  ### My Github Stats
+![](./profile-3d-contrib/profile-season-animate.svg)
+
 [![Fiona's GitHub stats](https://github-readme-stats.vercel.app/api?username=fionamei)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fionamei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-  
+ -->
  
 
 <!--
