@@ -1,7 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+my+name+is+Fiona!;Welcome+to+my+Github+:D&color=000000)](https://git.io/typing-svg)
 
-I am an avid learner studying computer science at Boston University 
 - 🌱 I’m currently working on Android development
 - 🤔 I love learning programming tips and tricks
 - 📫 How to reach me: Email me at <a href=mailto:fionamei@bu.edu target="blank">fionamei@bu.edu</a>
