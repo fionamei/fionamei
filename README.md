@@ -7,13 +7,14 @@
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I can play "The Lion Sleeps Tonight" on the guitar 
 
-
+<!--
 <details>
  <summary>My Github stats!</summary>
  
   ![](./profile-3d-contrib/profile-season-animate.svg)
   
 </details>
+-->
 
 
 <!--  ### My Github Stats
